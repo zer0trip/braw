@@ -1,0 +1,5 @@
+{
+"user_agent":"any_word",
+"client_id":"the string below personal use script",
+"client_secret":"secret"
+}
