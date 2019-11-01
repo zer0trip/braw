@@ -3,11 +3,14 @@ Browse Reddit At Work
 
 With this module, you can safely read Reddit in commond console pretending at work. 
 
+Currently only has read function. Will include write function in the later stage. 
+
+
 Prerequisite: 
 1. Install praw. You can install praw by pip install praw
 2. Reddit account 
 3. Create an app to get client_id, client_secret, user_agent of your reddit account. You can create one by https://www.reddit.com/prefs/apps/ . For further information you can visit https://github.com/reddit-archive/reddit/wiki/OAuth2-Quick-Start-Example#first-steps
-4. A text file for storing your personal login information. 
+4. A text file for storing your personal client information. 
 
 
 Function: 
